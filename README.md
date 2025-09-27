@@ -1,5 +1,5 @@
 # OlegBSU.github.io
-#Example github page for my CS155 class duplicated from my personal github account.
+# Example github page for my CS155 class duplicated from my personal github account.
 
 # Daycare sign in list printing automatization system
 
